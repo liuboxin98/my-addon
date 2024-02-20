@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/Liper/AppData/Local/node-gyp/Cache/16.18.0/include/node"
+                "C:/Users/Liper/AppData/Local/node-gyp/Cache/16.18.0/include/node",
+                "C:/Users/Liper/AppData/Roaming/npm/node_modules/node-addon-api"
             ],
             "defines": [
                 "_DEBUG",

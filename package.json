@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nan": "^2.18.0"
+    "nan": "^2.18.0",
+    "node-addon-api": "^7.1.0"
   }
 }
